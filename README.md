@@ -15,7 +15,7 @@ I write things I wished other people did.
 | **[CTB Relax Lazer Leaderboard](https://ctbrx.online)** | Global leaderboard + analytics dashboard for osu!catch relax, ingesting thousands of live scores | `Python` `Flask` `SQLite` |
 | **[little breakcore buddy](https://jadonkjones.github.io/little-breakcore-buddy/)** | Animated drummer that reacts to kick/snare/cymbal hits in real time — desktop app + JUCE/C++ VST3 plugin | `Python` `C++` `JUCE` |
 | **[ani2anki](https://jadonjones.xyz/AnimeExtractor)** | Extracts anime subtitle timing to auto-generate Anki flashcards | `Python` `React` `NLP` |
-| **spartanoid** | Brick-breaker clone built with a student team, custom physics + collision | `C++` `wxWidgets` |
+| **[spartanoid](https://github.com/JadonKJones/spartanoid)** | Brick-breaker clone built with a student team, custom physics + collision | `C++` `wxWidgets` |
 
 
 ### 🌍 Languages
