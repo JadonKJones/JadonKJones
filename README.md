@@ -32,8 +32,6 @@ I write things I wished other people did.
 
 <div align="center">
 
-<sub>🐍 watch the snake eat my commits</sub>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JadonKJones/JadonKJones/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JadonKJones/JadonKJones/output/github-contribution-grid-snake.svg" />
