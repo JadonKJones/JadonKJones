@@ -29,6 +29,10 @@ I write things I wished other people did.
 - **2x Champion — ACSL** (American Computer Science League)
 
 ---
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
+---
 
 <div align="center">
 
