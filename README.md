@@ -8,7 +8,7 @@
 ---
 I write things I wished other people did.
 
-### 🚀 projects
+### projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -18,15 +18,16 @@ I write things I wished other people did.
 | **[spartanoid](https://github.com/JadonKJones/spartanoid)** | Brick-breaker clone built with a student team, custom physics + collision | `C++` `wxWidgets` |
 
 
-### 🌍 Languages
+### Languages
 
 `English (native)` `Spanish (B2)` `Japanese (N5 track)` `Mandarin (N-3)`
 
-### 🏆 competitions
+### competitions
 
-- **#7 university player — gaslightCTF 2026** (17th overall) · [writeups →](https://jadonjones.xyz/docs/gaslightctf-2026/)
+
 - **1st Place — EMU Programming Competition** (2023)
 - **2x Champion — ACSL** (American Computer Science League)
+- **#7 university player — gaslightCTF 2026** (17th overall) · [writeups →](https://jadonjones.xyz/docs/gaslightctf-2026/)
 
 ---
 
