@@ -8,7 +8,7 @@
 ---
 I write things I wished other people did.
 
-### projects
+### Projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -19,10 +19,9 @@ I write things I wished other people did.
 
 
 ### Languages
-
 `English (native)` `Spanish (B2)` `Japanese (N5 track)` `Mandarin (N-3)`
 
-### competitions
+### Competitions
 
 
 - **1st Place — EMU Programming Competition** (2023)
