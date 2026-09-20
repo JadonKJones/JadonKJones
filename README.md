@@ -26,7 +26,6 @@ I write things I wished other people did.
 
 - **1st Place — EMU Programming Competition** (2023)
 - **2x Champion — ACSL** (American Computer Science League)
-- **#7 university player — gaslightCTF 2026** (17th overall) · [writeups →](https://jadonjones.xyz/docs/gaslightctf-2026/)
 
 ---
 
